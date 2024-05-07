@@ -12,7 +12,7 @@ import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
 import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
-export const logo = "https://ibb.co/KqpG2cX";
+export const logo = "https://ibb.co/KqpG2cX/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
