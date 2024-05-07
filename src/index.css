@@ -7,7 +7,7 @@ body {
 
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(248, 248, 248);
 }
 
 ::-webkit-scrollbar {
@@ -26,12 +26,12 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #fc1503 !important;
-  color: white !important;
+  background-color: #15c4db !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 .category-btn:hover span {
-  color: white !important;
+  color: black !important;
 }
 
 .react-player {
