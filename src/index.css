@@ -62,13 +62,13 @@ a {
   transition: all 0.3s ease;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1920px) {
   .category-btn {
     margin: 10px;
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1080px) {
   .copyright {
     display: none !important;
   }
