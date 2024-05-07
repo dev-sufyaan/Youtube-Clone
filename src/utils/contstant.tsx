@@ -1,6 +1,7 @@
 import MusicNoteIcon from "@mui/icons-material/MusicNote";
 import HomeIcon from '@mui/icons-material/Home';
 import CodeIcon from "@mui/icons-material/Code";
+import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
 import LiveTvIcon from "@mui/icons-material/LiveTv";
@@ -18,8 +19,7 @@ export const categories = [
   { name: "New", icon: <HomeIcon /> },
   
   { name: "Coding", icon: <CodeIcon /> },
-  { name: "ReactJS", icon: <CodeIcon /> },
-  { name: "NextJS", icon: <CodeIcon /> },
+  { name: "Gaming", icon: <SportsEsportsIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Podcast", icon: <GraphicEqIcon /> },
